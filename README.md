@@ -8,4 +8,7 @@
 ```
 jmeter -n –t test.jmx 
 jmeter -g <log file> -o <Path to output folder>
+
+/Users/stefan/apps/apache-jmeter-5.1.1/bin/jmeter -n -t oereb-web-service.jmx -l log.jtl -e -o dashboard
 ```
+
